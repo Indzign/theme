@@ -1,5 +1,5 @@
 var tocConfig = {
-  url: "/",
+  url: "https://contohnamina.blogspot.com",
   feedNum: 6,
   labelName: (window.location.hash && window.location.hash != "#0" && window.location.hash != "#search") ? encodeURIComponent(window.location.hash.substr(1)) : false,
   numChars: 140,
